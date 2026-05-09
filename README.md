@@ -178,6 +178,7 @@ MIT License
 ## 📧 联系方式
 
 如有问题或建议，欢迎在 GitHub Issues 中反馈。
+QQ:839311359
 
 ---
 
